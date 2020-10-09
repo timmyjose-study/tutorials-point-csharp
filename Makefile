@@ -2,7 +2,7 @@ CSCC := mcs
 CSCCFLAGS := -unsafe
 ARTEFACTS := HelloWorld Rectangle Sizeof DataTypes SwapDemo TypeConversions Variables ConstantsAndLiterals Operators \
 			 DecisionMaking Loops Primes Encapsulation Methods PassByValue PassByReference OutParameters Nullables Arrays \
-			 ArrayMethods Varargs Matrix Strings
+			 ArrayMethods Varargs Matrix Strings Structures Enums Classes Inheritance Interfaces Polymorphism
 
 .PHONY: all run clean 
 
