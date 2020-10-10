@@ -3,7 +3,7 @@ CSCCFLAGS := -unsafe
 ARTEFACTS := HelloWorld Rectangle Sizeof DataTypes SwapDemo TypeConversions Variables ConstantsAndLiterals Operators \
 			 DecisionMaking Loops Primes Encapsulation Methods PassByValue PassByReference OutParameters Nullables Arrays \
 			 ArrayMethods Varargs Matrix Strings Structures Enums Classes Inheritance Interfaces Polymorphism OperatorOverloading \
-			 Namespaces Using PreprocessorDirectives Regex Exceptions UserDefinedExceptions
+			 Namespaces Using PreprocessorDirectives Regex Exceptions UserDefinedExceptions IO
 
 .PHONY: all run clean 
 
