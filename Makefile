@@ -4,7 +4,8 @@ ARTEFACTS := HelloWorld Rectangle Sizeof DataTypes SwapDemo TypeConversions Vari
 			 DecisionMaking Loops Primes Encapsulation Methods PassByValue PassByReference OutParameters Nullables Arrays \
 			 ArrayMethods Varargs Matrix Strings Structures Enums Classes Inheritance Interfaces Polymorphism OperatorOverloading \
 			 Namespaces Using PreprocessorDirectives Regex Exceptions UserDefinedExceptions IO Attributes Unsafe Delegates MulticastDelegates \
-			 UsingDelegates CustomAttributes Reflection Properties Indexers AnonymousMethods Generics
+			 UsingDelegates CustomAttributes Reflection Properties Indexers AnonymousMethods Generics ArrayList Hashtable SortedList Stack Queue \
+			 Multithreading RandomNumbers
 
 .PHONY: all run clean 
 
